@@ -1,0 +1,49 @@
+{
+    "mibase":[
+        {
+            "id":1,
+            "name":"El jolounai",
+            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/knight.png",
+            "Descri":"el jolounai es el joloi nai",
+            "precio":"$240"
+        },
+        {
+            "id":2,
+            "name":"El jolounai",
+            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/knight.png",
+            "Descri":"el jolounai es el joloi nai",
+            "precio":"$240"
+        },
+        {
+            "id":3,
+            "name":"El jolounai",
+            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/knight.png",
+            "Descri":"el jolounai es el joloi nai",
+            "precio":"$240"
+        },
+        {
+            "id":4,
+            "name":"El jolounai",
+            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/knight.png",
+            "Descri":"el jolounai es el joloi nai",
+            "precio":"$240"
+        },
+        {
+            "id":5,
+            "name":"El jolounai",
+            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/knight.png",
+            "Descri":"el jolounai es el joloi nai",
+            "precio":"$240"
+        },
+        {
+            "id":6,
+            "name":"El jolounai",
+            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/knight.png",
+            "Descri":"el jolounai es el joloi nai",
+            "precio":"$240"
+        }
+    ],
+    "profile":{
+        "name":"Adriel"
+    }
+}
