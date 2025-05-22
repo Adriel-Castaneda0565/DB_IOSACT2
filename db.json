@@ -29,30 +29,21 @@
         },
         {
             "id":4,
-            "name":"El jolounai",
-            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/knight.png",
-            "Descri":"el jolounai es el joloi nai",
+            "name":"Raptor de ark",
+            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/raptorsito.png",
+            "Descri":"Peluche de raptor del infame videjojuego ARK",
             "precio":"$240",
             "descuento":12.07,
-            "rating":4.5
+            "rating":4.7
         },
         {
             "id":5,
-            "name":"El jolounai",
-            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/knight.png",
-            "Descri":"el jolounai es el joloi nai",
-            "precio":"$240",
-            "descuento":12.07,
-            "rating":4.5
-        },
-        {
-            "id":6,
-            "name":"El jolounai",
-            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/knight.png",
-            "Descri":"el jolounai es el joloi nai",
-            "precio":"$240",
-            "descuento":12.07,
-            "rating":4.5
+            "name":"Utahraptor",
+            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/utahraptor-removebg-preview.png",
+            "Descri":"Peluche de utahraptor",
+            "precio":"$450",
+            "descuento":200,
+            "rating":5.0
         }
     ],
     "profile":{
