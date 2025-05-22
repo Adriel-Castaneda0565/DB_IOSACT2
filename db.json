@@ -2,29 +2,29 @@
     "mibase":[
         {
             "id":1,
-            "name":"El jolounai",
+            "name":"The Hollow Knight",
             "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/knight.png",
             "Descri":"el jolounai es el joloi nai",
             "precio":"$240",
-            "descuento":12.07,
+            "descuento":120.99,
             "rating":4.5
         },
         {
             "id":2,
-            "name":"El jolounai",
-            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/knight.png",
-            "Descri":"el jolounai es el joloi nai",
-            "precio":"$240",
-            "descuento":12.07,
-            "rating":4.5
+            "name":"Dodo de ark",
+            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/do",
+            "Descri":"Peluche del mitico dodo de ark",
+            "precio":"$120",
+            "descuento":90.99,
+            "rating":5.0
         },
         {
             "id":3,
-            "name":"El jolounai",
-            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/knight.png",
+            "name":"The void",
+            "img":"https://raw.githubusercontent.com/Adriel-Castaneda0565/jugueteria_imagenes_app/refs/heads/main/51xpe6fphuL._AC_SL1001-removebg-preview_1.png",
             "Descri":"el jolounai es el joloi nai",
-            "precio":"$240",
-            "descuento":12.07,
+            "precio":"$250",
+            "descuento":200.99,
             "rating":4.5
         },
         {
